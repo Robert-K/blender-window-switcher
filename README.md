@@ -7,6 +7,8 @@ A simple [AutoHotkey](https://www.autohotkey.com/) application to significantly 
 While it's running, this program automatically focuses the Blender window your mouse is hovering over. This way you don't have to click it once for it to accept keyboard input (such as shortcuts).
 Focus will not be switched if it's on Blender's File Viewer or Preferences or any other application.
 
+### Hint: Place it in your startup folder.
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
