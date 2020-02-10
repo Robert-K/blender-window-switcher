@@ -1,10 +1,7 @@
 # Blender Window Switcher
-A simple application to significantly improve the Blender experience on multiple monitors.
+A simple application to significantly improve the [Blender](https://www.blender.org/) experience on multiple monitors. Windows only.
 
 ### AutoHotkey is not required to run the executable!
-
-#### Created for and tested with Blender set to english. You might need to change one line to make it work with other languages*
-
 
 ## What does it do?
 While it's running, this program automatically focuses the Blender window your mouse is hovering over. This way you don't have to click it once for it to accept keyboard input (such as shortcuts).
