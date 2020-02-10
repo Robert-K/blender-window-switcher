@@ -1,5 +1,5 @@
 # Blender Window Switcher
-A simple application to significantly improve the [Blender](https://www.blender.org/) experience on multiple monitors. Windows only.
+A simple [AutoHotkey](https://www.autohotkey.com/) application to significantly improve the [Blender](https://www.blender.org/) experience on multiple monitors. Windows only.
 
 ### AutoHotkey is not required to run the executable!
 
