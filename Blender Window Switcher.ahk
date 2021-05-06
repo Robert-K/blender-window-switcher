@@ -6,7 +6,7 @@ return
 
 CheckBlenderHover:
 MouseGetPos,,, hoverID
-activeWindow := WinActive("ahk_exe blender.exe",, ".*Preferences|.*File View")
+activeWindow := WinActive("ahk_exe blender.exe",, ".*Preferences|.*File View|.*Drivers Editor")
 hoverWindow := WinExist("ahk_exe blender.exe ahk_id " hoverID)
 if(activeWindow and hoverWindow and activeWindow != hoverWindow)
 {
